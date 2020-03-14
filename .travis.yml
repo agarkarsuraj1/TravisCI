@@ -2,3 +2,5 @@ language: python
 python:
  - 3.4
 script: python3 test_firtus.py
+notifications:
+  slack: moryaworkspace:HHlYgVoOmU4N45Ih7fF5wx4K
